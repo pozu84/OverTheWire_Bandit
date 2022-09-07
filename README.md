@@ -302,7 +302,7 @@ done; wait
 
 **NOTE: if you have solved this level and see ‘Byebye!’ when trying to log into bandit18, this is related to the next level, bandit19**
 
-Utilizamos `diff passwords.new passwords.old` para ver cuál es la diferencia entre los archivos, siendo `<` el dato nuevo y `>` el viejo.
+Utilizamos `diff passwords.new passwords.old` para ver cuál es la diferencia entre los archivos.
 
 ---
 
